@@ -1,1 +1,1 @@
-{"buildCommand":"npx vite build"}
+{"buildCommand":"npx vite build","outputDirectory":"dist","framework":"vite"}
